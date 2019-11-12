@@ -62,5 +62,10 @@ public class HomePageTest extends TestBase {
 	}
 	
 	
+	@Test
+	public void verifyPush() {
+        System.out.println("verify the code in gitHub");
+	}
+	
 
 }
